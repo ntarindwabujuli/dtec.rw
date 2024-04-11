@@ -23,7 +23,7 @@
     }
 
     .features-box {
-        @apply basis-[30%] px-2 py-8 mx-3 my-4 bg-[#090E34] bg-opacity-10 dark:bg-opacity-30 shadow-sm shadow-[#efefef4f] hover:shadow-lg hover:shadow-[#efefef2f] rounded-lg border border-amber-50 border-opacity-10 custom-transition
+        @apply basis-[30%] px-2 py-8 mx-3 my-4 bg-[#806104] bg-opacity-10 dark:bg-opacity-30 shadow-sm shadow-[#efefef4f] hover:shadow-lg hover:shadow-[#efefef2f] rounded-lg border border-amber-50 border-opacity-10 custom-transition
     }
 
     .tools-box {
@@ -68,6 +68,6 @@
 }
 @layer utilities {
     .svg-fill {
-        fill: rgb(74, 108, 247);
+        fill: rgb(230, 215, 3);
     }
 }

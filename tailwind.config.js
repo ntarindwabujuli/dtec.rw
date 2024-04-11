@@ -3,8 +3,8 @@ module.exports = {
     content: ["./index.html"], darkMode: "class", theme: {
         extend: {
             colors: {
-                "slate-800": "rgb(29,33,68)",
-                "backgrount-input": "rgb(36,43,81)",
+                "slate-800": "rgb(176,123,0)",
+                "backgrount-input": "rgb(176,123,0)",
                 "gray-dark": "rgba(74,108,247,.1)",
                 "dark": "rgb(9, 14, 52)"
             }, boxShadow: {
